@@ -1,7 +1,6 @@
-[!MasterHead](https://www.google.com/imgres?q=coding%20banner%20gif&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F106918656%2F209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FMd-Ij%2FMd-Ij&docid=tZDJzJe_hsFsIM&tbnid=d1C79WuL-DpeFM&vet=12ahUKEwiVjb6I8NaKAxVa3jgGHZKaN9cQM3oECBkQAA..i&w=1920&h=590&hcb=2&ved=2ahUKEwiVjb6I8NaKAxVa3jgGHZKaN9cQM3oECBkQAA)
 # 💫 About Me:
 <br><br>👋 **Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 2nd year at **United International University**  <br>- 💻 Passionate about coding, problem-solving, web development and creating impactful projects  <br><br>
-<img align "right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F7466903-Hello-Dribbble&psig=AOvVaw2Ebhy8pnDuwo56AZ8Ob1BO&ust=1735901524155000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj526Pv1ooDFQAAAAAdAAAAABAE"> 
+
 🛠️ **Skills & Technologies**  <br>-PROGRAMMING LANGUAGES: C, C++,Java<br>-SCRIPTING LANGUAGES: HTML, CSS, JAVASCRIPT,PHP<br>-DATABASE MANAGEMENT: MySQL  <br><br>🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Working on projects like 'Jatri Ovijog' – a complaint submission website for local bus services in Bangladesh  <br><br>📈 **Learning Goals**  <br>- Dive deeper into advanced programming and full-stack development  <br>- Contribute to open-source projects and collaborate with other developers  <br><br>
 
 
