@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 2nd year at **United International University**  <br>- 💻 Passionate about coding, problem-solving, web development and creating impactful projects  <br><br>
+<br><br>👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 3rd year at **United International University**  <br>- 💻 Passionate about coding, problem-solving, web development and creating impactful projects  <br><br>
 
 🛠️ **Skills & Technologies**  <br>-PROGRAMMING LANGUAGES: C, C++,Java<br>-SCRIPTING LANGUAGES: HTML, CSS, JAVASCRIPT,PHP<br>-DATABASE MANAGEMENT: MySQL  <br><br>🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Working on projects like 'Jatri Ovijog' – a complaint submission website for local bus services in Bangladesh  <br><br>📈 **Learning Goals**  <br>- Dive deeper into advanced programming and full-stack development  <br>- Contribute to open-source projects and collaborate with other developers  <br><br>
 
