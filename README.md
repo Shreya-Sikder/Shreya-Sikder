@@ -4,13 +4,7 @@
 ---
 
 
-![](https://komarev.com/ghpvc/?username=Shreya-Sikder)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreya-Sikder&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreya-Sikder&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreya-Sikder&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreya-Sikder&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shreya-Sikder&theme=nord_dark)
 
 ## 🛠️ Tech Stack
 ### **Programming Languages**
