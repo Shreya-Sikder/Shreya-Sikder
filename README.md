@@ -29,9 +29,9 @@
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /><br>TypeScript
       </td>
-      <td align="center" width="96">
+      <!--<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /><br>Django
-      </td>
+      </td>-->
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" /><br>Github
       </td>
@@ -52,9 +52,9 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind
       </td>
-      <td align="center" width="96">
+     <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br>jQuery
-      </td>
+      </td>-->
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
       </td>
