@@ -22,12 +22,15 @@
 ### **Database**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
 
 
 🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed 'Jatri Ovijog', a complaint submission website for local bus services in Bangladesh  <br><br>
+
 ---
 ![](https://komarev.com/ghpvc/?username=Shreya-Sikder)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreya-Sikder&theme=nord_dark)
 
 
 ## 🌐 Socials:
