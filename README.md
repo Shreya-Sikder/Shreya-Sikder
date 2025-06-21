@@ -3,6 +3,8 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=Shreya-Sikder)
+
+---
 <h2>💻 Tools and Technologies</h2>
 <div style="display: flex; justify-content: center;">
   <table>
@@ -77,10 +79,10 @@
   </table>
 </div>
 
-
+---
 🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed 'Jatri Ovijog', a complaint submission website for local bus services in Bangladesh  <br><br>
 
-
+---
 
 
 
