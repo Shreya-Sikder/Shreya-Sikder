@@ -21,6 +21,9 @@
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>C++
       </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+      </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br>MySQL
       </td>
@@ -40,6 +43,9 @@
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
+      </td>
+         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
       </td>
     </tr>
     <tr>
@@ -69,12 +75,12 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" /><br>VSCode
       </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
-      </td>
-      <td align="center" width="96">
+      </td> -->
+<!--<td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
