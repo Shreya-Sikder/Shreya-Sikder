@@ -9,9 +9,9 @@
 <div style="display: flex; justify-content: center;">
   <table>
     <tr>
-      <td align="center" width="96">
+      <!--<td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>React
-      </td>
+      </td>-->
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>Python
       </td>
