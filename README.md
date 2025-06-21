@@ -70,7 +70,7 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" /><br>VSCode
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /><br>Sass
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
