@@ -26,8 +26,8 @@
 
 
 🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed 'Jatri Ovijog', a complaint submission website for local bus services in Bangladesh  <br><br>
-
-
+---
+![](https://komarev.com/ghpvc/?username=Shreya-Sikder)
 
 
 ## 🌐 Socials:
