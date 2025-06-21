@@ -2,6 +2,9 @@
 <br><br>👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 3rd year at **United International University**  <br>
 
 ---
+![](https://komarev.com/ghpvc/?username=Shreya-Sikder)
+
+---
 ## 🛠️ Tech Stack
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -28,9 +31,8 @@
 
 🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed 'Jatri Ovijog', a complaint submission website for local bus services in Bangladesh  <br><br>
 
----
-![](https://komarev.com/ghpvc/?username=Shreya-Sikder)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreya-Sikder&theme=nord_dark)
+
+
 
 
 ## 🌐 Socials:
