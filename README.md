@@ -54,7 +54,7 @@
       </td>
      <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br>jQuery
-      </td>-->
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
       </td>
@@ -62,7 +62,7 @@
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js
-      </td>
+      </td>-->
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br>PHP
       </td>
