@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 3rd year at **United International University**  <br>
+👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 3rd year at **United International University**  <br>
 ---
 
 <h2>💻 Tools and Technologies</h2>
