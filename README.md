@@ -1,9 +1,7 @@
 # 💫 About Me:
 <br><br>👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 3rd year at **United International University**  <br>
 ---
-![](https://komarev.com/ghpvc/?username=Shreya-Sikder)
 
----
 <h2>💻 Tools and Technologies</h2>
 <div style="display: flex; justify-content: center;">
   <table>
