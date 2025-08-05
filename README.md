@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 3rd year at **United International University**  <br>
+<br>👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 3rd year at **United International University**  <br>
 ---
 
 <h2>💻 Tools and Technologies</h2>
@@ -77,7 +77,7 @@
 </div>
 
 ---
-🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed 'Jatri Ovijog', a complaint submission website for local bus services in Bangladesh  <br><br>
+🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed 'Jatri Ovijog'[https://github.com/Shreya-Sikder/Jatri-Ovijog], a complaint submission website for local bus services in Bangladesh  <br><br>
 
 ---
 
