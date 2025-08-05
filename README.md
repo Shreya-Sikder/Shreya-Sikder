@@ -77,7 +77,7 @@
 </div>
 
 ---
-🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed 'Jatri Ovijog'[https://github.com/Shreya-Sikder/Jatri-Ovijog], a complaint submission website for local bus services in Bangladesh  <br><br>
+🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed ['Jatri Ovijog'(https://github.com/Shreya-Sikder/Jatri-Ovijog), a complaint submission website for local bus services in Bangladesh  <br><br>
 
 ---
 
