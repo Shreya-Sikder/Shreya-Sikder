@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Shreya Sikder<br><br>🎓 **CSE Undergraduate Student**  <br>- 📚 Currently in my 3rd year at **United International University**  <br>
 ---
-(https://komarev.com/ghpvc/?username=Shreya-Sikder&label=Number%20Of%20Mortals%20That%20Have%20Laid%20Eyes%20On%20My%20Profile&label_color=000000&color=6fff57&style=flat-square)
+[no](https://komarev.com/ghpvc/?username=Shreya-Sikder&label=Number%20Of%20Mortals%20That%20Have%20Laid%20Eyes%20On%20My%20Profile&label_color=000000&color=6fff57&style=flat-square)
 ---
 <h2>💻 Tools and Technologies</h2>
 <div style="display: flex; justify-content: center;">
