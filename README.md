@@ -84,11 +84,10 @@ I'm passionate about **software development, web technologies, and data science*
 
 ---
 🌟 **Projects & Interests**  <br>- Exploring new technologies and building real-world solutions  <br>- Developed ['Jatri Ovijog'](https://github.com/Shreya-Sikder/Jatri-Ovijog), a complaint submission website for local bus services in Bangladesh  <br><br>
-A reliable rental platform focused on verified listings, safety, transparency, and convenience for students and young professionals.  
+<br> -Currently working on "To-Dent" -A reliable rental platform focused on verified listings, safety, transparency, and convenience for students and young professionals.  
+
+
 ---
-
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shreyasikder24) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/being.shreya_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyasikder03) 
 
